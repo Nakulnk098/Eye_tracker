@@ -1,0 +1,3 @@
+# In your project folder in terminal:
+npm install express cors sqlite3
+npm install webgazer
